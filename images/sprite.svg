@@ -1,1 +1,9 @@
-<svg aria-hidden="true" style="position:absolute;width:0;height:0" xmlns="http://www.w3.org/2000/svg" overflow="hidden"><defs><symbol id="icon-next" viewBox="0 0 19 32"><path fill="var(--color1, #24b4e6)" d="M3.686 0L0 3.733 12.109 16 0 28.267 3.686 32l15.793-16L3.686 0z"/></symbol><symbol id="icon-previous" viewBox="0 0 19 32"><path fill="var(--color1, #24b4e6)" d="M15.793 0l3.686 3.733L7.37 16l12.109 12.267L15.793 32 0 16 15.793 0z"/></symbol><symbol id="icon-Shape-1" viewBox="0 0 19 32"><path fill="var(--color2, #fff)" d="M3.686 0L0 3.733 12.109 16 0 28.267 3.686 32l15.793-16L3.686 0z"/></symbol><symbol id="icon-Shape" viewBox="0 0 19 32"><path fill="var(--color2, #fff)" d="M15.793 0l3.686 3.733L7.37 16l12.109 12.267L15.793 32 0 16 15.793 0z"/></symbol><symbol id="icon-icon-close" viewBox="0 0 32 32"><path d="M26.667 7.303l-1.97-1.97-7.808 7.808-7.808-7.808-1.97 1.97 7.808 7.808-7.808 7.808 1.97 1.97 7.808-7.808 7.808 7.808 1.97-1.97-7.808-7.808 7.808-7.808z"/></symbol></defs></svg>
+<svg aria-hidden="true" style="position:absolute;width:0;height:0" xmlns="http://www.w3.org/2000/svg" overflow="hidden"><defs>
+<symbol id="icon-next" viewBox="0 0 19 32"><path  d="M3.686 0L0 3.733 12.109 16 0 28.267 3.686 32l15.793-16L3.686 0z"/></symbol>
+<symbol id="icon-previous" viewBox="0 0 19 32"><path  d="M15.793 0l3.686 3.733L7.37 16l12.109 12.267L15.793 32 0 16 15.793 0z"/>
+</symbol><symbol id="next" viewBox="0 0 19 32"><path fill="var(--color2, #fff)" d="M3.686 0L0 3.733 12.109 16 0 28.267 3.686 32l15.793-16L3.686 0z"/>
+</symbol><symbol id="previous" viewBox="0 0 19 32"><path fill="var(--color2, #fff)" d="M15.793 0l3.686 3.733L7.37 16l12.109 12.267L15.793 32 0 16 15.793 0z"/>
+</symbol><symbol id="icon-close" viewBox="0 0 32 32"><path d="M26.667 7.303l-1.97-1.97-7.808 7.808-7.808-7.808-1.97 1.97 7.808 7.808-7.808 7.808 1.97 1.97 7.808-7.808 7.808 7.808 1.97-1.97-7.808-7.808 7.808-7.808z"/></symbol>
+</defs></svg>
+
+<!-- <use href="./img/symbol-defs.svg#icon-burger-close-btn"></use> -->
