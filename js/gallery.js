@@ -17,8 +17,7 @@ function galleryCardMarkup(images) {
             <a class="gallery__link"
             href=${original}>
             <img
-            
-            loading = "lazy"
+            loading="lazy"
             class="gallery__image lazyload"
             data-src=${preview}
             data-source=${original}

@@ -62,4 +62,46 @@ export default [
       "https://cdn.pixabay.com/photo/2019/05/17/04/35/lighthouse-4208843_1280.jpg",
     description: "Lighthouse Coast Sea",
   },
+  {
+    preview:
+      "https://cdn.pixabay.com/photo/2021/07/21/12/22/lavenders-6482952__340.jpg",
+    original:
+      "https://cdn.pixabay.com/photo/2021/07/21/12/22/lavenders-6482952_960_720.jpg",
+    description: "lavenders",
+  },
+  {
+    preview:
+      "https://cdn.pixabay.com/photo/2021/07/26/22/04/sea-shell-6495338__340.jpg",
+    original:
+      "https://cdn.pixabay.com/photo/2021/07/26/22/04/sea-shell-6495338_960_720.jpg",
+    description: "sea",
+  },
+  {
+    preview:
+      "https://cdn.pixabay.com/photo/2021/07/22/13/41/cat-6485361__340.jpg",
+    original:
+      "https://cdn.pixabay.com/photo/2021/07/22/13/41/cat-6485361_960_720.jpg",
+    description: "cat",
+  },
+  {
+    preview:
+      "https://cdn.pixabay.com/photo/2021/07/17/18/59/waterfall-6473754__340.jpg",
+    original:
+      "https://cdn.pixabay.com/photo/2021/07/17/18/59/waterfall-6473754_960_720.jpg",
+    description: "waterfall",
+  },
+  {
+    preview:
+      "https://cdn.pixabay.com/photo/2020/06/02/06/34/home-studios-5249651__340.jpg",
+    original:
+      "https://cdn.pixabay.com/photo/2020/06/02/06/34/home-studios-5249651_960_720.jpg",
+    description: "home",
+  },
+  {
+    preview:
+      "https://cdn.pixabay.com/photo/2021/06/24/21/10/yachts-6362348__340.jpg",
+    original:
+      "https://cdn.pixabay.com/photo/2021/06/24/21/10/yachts-6362348_960_720.jpg",
+    description: "sea",
+  },
 ];
